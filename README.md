@@ -8,6 +8,10 @@ https://github.com/udacity/CarND-Behavioral-Cloning-P3
 ### Project Overview
 In this project, I used deep neural networks and convolutional neural networks to clone driving behavior. I trained, validated and tested a model using Keras. The model output a steering angle to an autonomous vehicle.
 
+### Output video
+
+The project generates a video of a car driving all by itself using [Udacity's Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim). The output video can be watched [here](https://drive.google.com/file/d/0B0agIiDyIPj1WXVGZDJLdTlmY00/view?usp=sharing).
+
 ### Install
 
 This project requires **Python 3.5** and the following Python libraries installed:
