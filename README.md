@@ -20,4 +20,4 @@ This project requires **Python 3.5** and the following Python libraries installe
 
 ### Run
 
-This is not a stand-alone project. In order to run the code, please follow the instructions on the [Udacity project repository](https://github.com/udacity/CarND-Behavioral-Cloning-P3). You will need the simulator from Udacity as well as the files [**drive.py**](https://github.com/udacity/CarND-Behavioral-Cloning-P3/blob/master/drive.py) and [**video.py**](https://github.com/udacity/CarND-Behavioral-Cloning-P3/blob/master/video.py).
+This is not a stand-alone project. In order to run the code, please follow the instructions on the [Udacity project repository](https://github.com/udacity/CarND-Behavioral-Cloning-P3). You will need [Udacity's Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim) as well as the files [**drive.py**](https://github.com/udacity/CarND-Behavioral-Cloning-P3/blob/master/drive.py) and [**video.py**](https://github.com/udacity/CarND-Behavioral-Cloning-P3/blob/master/video.py) from the [Udacity project repository](https://github.com/udacity/CarND-Behavioral-Cloning-P3).
